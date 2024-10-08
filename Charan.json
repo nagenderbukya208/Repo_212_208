@@ -1,0 +1,14 @@
+{
+  "value" : [ {
+    "user" : [ {
+      "id" : 12345,
+      "value" : "jerry"
+    } ],
+    "manager" : [ {
+      "id" : 123123,
+      "value" : "Nag"
+    } ],
+    "pinname" : "208212"
+  } ],
+  "itemconfigId" : "itemconfidId#1234"
+}
